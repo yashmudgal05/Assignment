@@ -1,0 +1,19 @@
+.headerIcon {
+    color: gray;
+    margin-left: 1.1rem;
+  }
+  .searchBarIcon {
+    color: gray;
+
+  }
+  .search-icon{
+    color: gray;
+  }
+  .searchBarInput {
+    border: none;
+    color: gray;
+  }
+
+  .ant-layout-header {
+      line-height: normal !important;
+  }
