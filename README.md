@@ -2,7 +2,6 @@
 
 - Responsive design
 - Theme selection (dark and light mode )
-- Download the Grid data in csv format
 - Optimized build with webpack
 
 ## Project Uses
